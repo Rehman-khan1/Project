@@ -73,7 +73,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
           child: Container(
           height: MediaQuery.of(context).size.height * 0.60,
           decoration: BoxDecoration(
-          color: Colors.orange,
+          color: Colors.deepPurpleAccent,
           borderRadius: BorderRadius.only(
           topLeft: Radius.circular(50),
           topRight: Radius.circular(50),

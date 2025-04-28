@@ -58,7 +58,7 @@ class _SignInScreenState extends State<SignInScreen> {
             child: Container(
               height: MediaQuery.of(context).size.height * 0.55,
               decoration: BoxDecoration(
-                color: Colors.orange,
+                color: Colors.deepPurpleAccent,
                 borderRadius: BorderRadius.only(
                   topLeft: Radius.circular(50),
                   topRight: Radius.circular(50),
